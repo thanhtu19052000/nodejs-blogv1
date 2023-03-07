@@ -1,3 +1,8 @@
+@import 'variables';
+
 .test{
-    font-size: 1rem;
+    font-size: $red-color;
+}
+.app{
+    background-color: green;
 }
